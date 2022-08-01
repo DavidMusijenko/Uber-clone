@@ -1,3 +1,4 @@
 {
-  "marquee.widgets.npm-stats.packageNames": ["uber-clone"]
+  "marquee.widgets.npm-stats.packageNames": ["uber-clone"],
+  "cSpell.words": ["myapp"]
 }
