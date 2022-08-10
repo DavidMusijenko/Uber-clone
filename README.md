@@ -1,4 +1,4 @@
-# Uber-clone with React Native, Redux, Google APIs, Tailwind CSS
+# Uber-clone with React Native, Redux, Directions API, Distance Matrix API, Places API, Tailwind CSS
 
 ![grab-landing-page](https://github.com/DavidMusijenko/Uber-clone/blob/master/demo.gif)
 
